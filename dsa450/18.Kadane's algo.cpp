@@ -1,7 +1,7 @@
 https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0
 
 
-
+Time Complexity - O(n)
 class Solution{
     public:
     // arr: input array
